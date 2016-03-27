@@ -24,5 +24,5 @@ You should create one R script called run_analysis.R that does the following.
 
 ## The files
 
-You will find the script (run_analysis.R), the Codebook and the Readme file.
+You will find the script (run_analysis.R), the Codebook, the Readme file and the tidy data set (tidydata.txt).
 
